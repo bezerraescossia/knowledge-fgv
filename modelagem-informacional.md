@@ -1,14 +1,7 @@
-# 1. Modelagem Informacional
+# Modelagem Informacional
 
-## 1.1. Modelagem Relacional
-
-### 1.1.1. Modelo Conceitual
-
-#### 1.1.1.1. Notação Peter-Chen
-
-#### 1.1.1.2. Notação ...
-
-### 1.1.2. Modelo Lógico
-
-### 1.1.3. Modelo Físico
+- Professor: [Gustavo Cicotoste](https://www.linkedin.com/in/gustavo-cicotoste-66883022/)
+- [Eclass](https://ls.cursos.fgv.br/d2l/home/618512)
+- [Mendeley](https://www.mendeley.com/reference-manager/library/collections/8b8a9848-6427-449a-b486-7d603098ed43/all-references/)
+- [Arquivos](https://www.google.com)
 
